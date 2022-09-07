@@ -10,7 +10,7 @@
 vendor/bin/jigsaw build  
 ```
 
-## Develoing
+## Development
 1. Start php server 
    ```bash
    vendor/bin/jigsaw serve
